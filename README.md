@@ -124,7 +124,7 @@ flowchart TD
 * 📉 **Dynamic Price vs Time** for each parking lot
 * 📊 **Competitor Price Bar Plot** at the current timestamp
 * 🚦 **Occupancy Trend Line Chart**
-* 🔁 (Optional) Rerouting suggestion log
+* 🔁 Rerouting suggestion log
 
 ---
 
@@ -135,20 +135,4 @@ flowchart TD
 * **Traffic congestion** and **local events** significantly impact prices
 * Competitor-aware rerouting **reduces overflows** and improves lot utilization
 
----
 
-## 📫 Contact
-
-For queries or collaboration: **\[[your\_email@example.com](mailto:your_email@example.com)]**
-
----
-
-## ⭐ Acknowledgements
-
-* **Pathway** for their real-time streaming engine
-* **Consulting & Analytics Club** and **Pathway** for mentorship
-
-```
-
-Let me know if you'd like me to generate a GitHub repository with this structure or help you turn this into a live project page.
-```
